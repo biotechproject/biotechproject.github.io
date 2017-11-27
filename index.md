@@ -37,3 +37,9 @@ Scientists used George M. Robinsons discovery to try and clean out fuel tanks on
 <dt>Ex-situ</dt>
 <dd>A biological process in which excavated soil is placed in a lined above-ground treatment area and enhances the degradation of organic contaminants by the indigenous microbial population</dd>
 </dl>
+
+| Advantages                                    | Disadvantages                                   |
+|-----------------------------------------------|-------------------------------------------------|
+| Suitable for a wide range of contaminants     | Not applicable to heavy metal contamination     |
+| Simple to assess from site investigation data | Can require large areas for treatment beds      |
+| Flexible with respect to volumes              | Dependent on temperature, weather, and material |
