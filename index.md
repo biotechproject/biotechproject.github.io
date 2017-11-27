@@ -26,6 +26,13 @@ Scientists used George M. Robinsons discovery to try and clean out fuel tanks on
 <dd>The process of soils/groundwater utilizing indigenous naturally occurring microorganisms to degrade contaminants</dd>
 </dl>
 
+| Advantages                                             | Disadvantages                                |
+|--------------------------------------------------------|----------------------------------------------|
+| Small area for equipment                               | Less suitable in soils with low permeability |
+| Ideal for sites with a small footprint                 |                                              |
+| Can address many different contaminants simultaneously |                                              |
+| Non-intrusive to above ground structures               |                                              |
+
 <dl>
 <dt>Ex-situ</dt>
 <dd>A biological process in which excavated soil is placed in a lined above-ground treatment area and enhances the degradation of organic contaminants by the indigenous microbial population</dd>
