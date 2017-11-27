@@ -9,3 +9,12 @@ Scientists used George M. Robinsons discovery to try and clean out fuel tanks on
 * Bioremediation has existed since around 600 BC, although invented in the 1960s. It is believed that the Romans used microorganisms to treat their waste water just like bioremediation today.
 * Michigan's Copper County: A closed copper mine left highly contaminated soil behind and Li & Wusirika added bacteria from a local lake used a mine dump to decontaminate the soil and promote plant growth.
 * Bacteria indigenous to a landfill in Medellin, Colombia were used in bioremediation. The scientist Gomez explored the process of bioaugmentation to speed it up.
+
+## Advantages and disadvantages of bioremediation
+| Advantages                           | Disadvantages                      |
+|--------------------------------------|------------------------------------|
+| Takes advantage of natural processes | Less effective                     |
+| Cost effective                       | Slower than other methods          |
+| Environmentally friendly             | Only works during specific seasons |
+| Doesn't involve noisy equipment      |                                    |
+| Aesthetically pleasing               |                                    |
