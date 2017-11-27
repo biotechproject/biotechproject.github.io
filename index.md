@@ -1,7 +1,8 @@
-# What is Bioremediation?
+# Bioremediation
+## What is Bioremediation?
 Bioremediation is the use of living organism to absorb nutrients and restore an environment to its original condition.
 
-# Notable companies, people, and events in bioremediation
+## Notable companies, people, and events in bioremediation
 * [TED Talks](https://www.ted.com/talks)
 * George M. Robinson invented modern bioremediation in the 1960s.
 Scientists used George M. Robinsons discovery to try and clean out fuel tanks on the RMS Queen Mary. The attempt was successful and ever since 1972, humans have been using and improving these microbes.
