@@ -11,6 +11,7 @@ Scientists used George M. Robinsons discovery to try and clean out fuel tanks on
 * Bacteria indigenous to a landfill in Medellin, Colombia were used in bioremediation. The scientist Gomez explored the process of bioaugmentation to speed it up.
 
 ## Advantages and disadvantages of bioremediation
+
 | Advantages                           | Disadvantages                      |
 |--------------------------------------|------------------------------------|
 | Takes advantage of natural processes | Less effective                     |
