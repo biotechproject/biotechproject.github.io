@@ -19,3 +19,14 @@ Scientists used George M. Robinsons discovery to try and clean out fuel tanks on
 | Environmentally friendly             | Only works during specific seasons |
 | Doesn't involve noisy equipment      |                                    |
 | Aesthetically pleasing               |                                    |
+
+## Classification of bioremediation
+<dl>
+<dt>In-situ</dt>
+<dd>The process of soils/groundwater utilizing indigenous naturally occurring microorganisms to degrade contaminants</dd>
+</dl>
+
+<dl>
+<dt>Ex-situ</dt>
+<dd>A biological process in which excavated soil is placed in a lined above-ground treatment area and enhances the degradation of organic contaminants by the indigenous microbial population</dd>
+</dl>
