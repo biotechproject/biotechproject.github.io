@@ -2,6 +2,25 @@
 ## What is Bioremediation?
 Bioremediation is the use of living organism to absorb nutrients and restore an environment to its original condition.
 
+## The three main areas of bioremediation
+<dl>
+<dt>Phytoremediation</dt>
+<dd>The use of plants to remove toxins from a contaminated area</dd>
+</dl>
+Nyrstar, a mining and metals business, used thousands of sunflowers to [remove heavy metals](http://www.portpirierecorder.com.au/story/5059377/the-secret-world-of-sunflowers/) from soil. This is an example of *Phytoremediation*.
+
+<dl>
+<dt>Mycoremediation</dt>
+<dd>The use of fungi to remove toxins from a contaminated area</dd>
+</dl>
+Fungi are able to absorb metals, so they can be used to decontaminate various sites where metal waste is common. For example, *brownfields*, which are areas which were previously used for industrial purposes but are now unused and contaminated. [Mushrooms were used](https://progrss.com/sustainability/20170303/mushrooms-urban-brownfields/) to remove heavy metals from a brownfield, an example of *Mycoremediation*.
+
+<dl>
+<dt>Xenoremediation</dt>
+<dd>The use of bacteria to remove toxins from a contaminated area</dd>
+</dl>
+[Bacteria were used](https://www.sciencedaily.com/releases/2012/06/120625165449.htm) to remove contaminants from a garbage dump in Colombia. Because bacteria were used, this is *Xenoremediation*.
+
 ## Notable companies, people, and events in bioremediation
 * [TED Talks](https://www.ted.com/talks)
 * George M. Robinson invented modern bioremediation in the 1960s.
