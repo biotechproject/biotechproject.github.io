@@ -3,6 +3,9 @@
 Bioremediation is the use of living organism to absorb nutrients and restore an environment to its original condition.
 
 ## The three main areas of bioremediation
+
+<img style="float: right;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
+
 <dl>
 <dt>Phytoremediation</dt>
 <dd>The use of plants to remove toxins from a contaminated area</dd>
@@ -14,8 +17,6 @@ Nyrstar, a mining and metals business, used thousands of sunflowers to [remove h
 <dd>The use of fungi to remove toxins from a contaminated area</dd>
 </dl>
 Fungi are able to absorb metals, so they can be used to decontaminate various sites where metal waste is common. For example, *brownfields*, which are areas which were previously used for industrial purposes but are now unused and contaminated. [Mushrooms were used](https://progrss.com/sustainability/20170303/mushrooms-urban-brownfields/) to remove heavy metals from a brownfield, an example of *Mycoremediation*.
-
-<img style="float: right;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
 
 <dl>
 <dt>Xenoremediation</dt>
