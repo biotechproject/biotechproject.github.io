@@ -4,7 +4,7 @@ Bioremediation is the use of living organism to absorb nutrients and restore an 
 
 ## The three main areas of bioremediation
 
-<img style="float: right;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
+<img style="float: right; height: 75%;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
 
 <dl>
 <dt>Phytoremediation</dt>
