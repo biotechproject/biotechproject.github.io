@@ -4,8 +4,7 @@ Bioremediation is the use of living organism to absorb nutrients and restore an 
 
 ## The three main areas of bioremediation
 
-<span style="display:inline-block;">
-<img style="float: right; height: 100%;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
+<img style="float: right; height: 500px;" src="http://www.livemint.com/r/LiveMint/WebArchive/BP/Photos/2015-07-21/Processed/Mint/Web/w_g_Science_Bioremediation.jpg">
 
 <dl>
 <dt>Phytoremediation</dt>
@@ -24,7 +23,7 @@ Fungi are able to absorb metals, so they can be used to decontaminate various si
 <dd>The use of bacteria to remove toxins from a contaminated area</dd>
 </dl>
 [Bacteria were used](https://www.sciencedaily.com/releases/2012/06/120625165449.htm) to remove contaminants from a garbage dump in Colombia. Because bacteria were used, this is *Xenoremediation*.
-</span>
+
 ## Notable figures in bioremediation
 * Living Machine Systems developed Living Machines, which mimics the natural process of cleaning wetlands for application in sewage systems.
 * George M. Robinson invented modern bioremediation in the 1960s.
